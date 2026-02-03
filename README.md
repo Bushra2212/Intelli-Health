@@ -6,8 +6,8 @@ The system provides **personalized health insights**, **visual analytics**, and 
 ---
 
 ## 🌐 Live Application
-👉 https://intellihealth-bushra.streamlit.app  
-*(Replace with your actual Streamlit URL if different)*
+👉 https://intelli-health.streamlit.app/
+
 
 ---
 
@@ -90,7 +90,7 @@ Steps:
 ---
 
 ## 🎓 Academic Relevance
-- Suitable as a **B.Tech CSE (AIML) Major Project**
+- **B.Tech CSE (AI&ML) Major Project**
 - Demonstrates:
   - Machine learning integration
   - Decision support systems
@@ -119,5 +119,5 @@ Institute of Aeronautical Engineering, Hyderabad
 
 ---
 
-## 📜 License
-This project is developed for **academic and educational purposes**.
+
+
